@@ -24,6 +24,8 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/src/plugins/plyr/dist/plyr.css") ?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/src/plugins/jvectormap/jquery-jvectormap-2.0.3.css") ?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/src/plugins/cropperjs/dist/cropper.css") ?>">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/src/plugins/jvectormap/jquery-jvectormap-2.0.3.css") ?>">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/src/plugins/fullcalendar/fullcalendar.css") ?>">
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119386393-1"></script>

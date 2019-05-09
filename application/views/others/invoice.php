@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<?php include('include/head.php'); ?>
-</head>
-<body>
-	<?php include('include/header.php'); ?>
-	<?php include('include/sidebar.php'); ?>
 	<div class="main-container">
 		<div class="pd-ltr-20 xs-pd-20-10">
 			<div class="min-height-200px">
@@ -118,8 +110,3 @@
 					</div>
 				</div>
 			</div>
-		</div>
-	</div>
-	<?php include('include/script.php'); ?>
-</body>
-</html>

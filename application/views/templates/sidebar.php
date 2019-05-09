@@ -13,7 +13,7 @@
 						</a>
 						<ul class="submenu">
 							<li><a href="index.php">Dashboard style 1</a></li>
-							<li><a href="index2.php">Dashboard style 2</a></li>
+							<li><a href="<?php echo base_url("welcome/second-index") ?>">Dashboard style 2</a></li>
 						</ul>
 					</li>
 					<li class="dropdown">
@@ -40,7 +40,7 @@
 						</ul>
 					</li>
 					<li>
-						<a href="calendar.php" class="dropdown-toggle no-arrow">
+						<a href="<?php echo base_url("other-pages/calendar") ?>" class="dropdown-toggle no-arrow">
 							<span class="fa fa-calendar-o"></span><span class="mtext">Calendar</span>
 						</a>
 					</li>
@@ -140,17 +140,17 @@
 						</ul>
 					</li>
 					<li>
-						<a href="sitemap.php" class="dropdown-toggle no-arrow">
+						<a href="<?php echo base_url("other-pages/sitemap") ?>" class="dropdown-toggle no-arrow">
 							<span class="fa fa-sitemap"></span><span class="mtext">Sitemap</span>
 						</a>
 					</li>
 					<li>
-						<a href="chat.php" class="dropdown-toggle no-arrow">
+						<a href="<?php echo base_url("other-pages/chat") ?>" class="dropdown-toggle no-arrow">
 							<span class="fa fa-comments-o"></span><span class="mtext">Chat <span class="fi-burst-new text-danger new"></span></span>
 						</a>
 					</li>
 					<li>
-						<a href="invoice.php" class="dropdown-toggle no-arrow">
+						<a href="<?php echo base_url("other-pages/invoice") ?>" class="dropdown-toggle no-arrow">
 							<span class="fa fa-map-o"></span><span class="mtext">Invoice</span>
 						</a>
 					</li>
